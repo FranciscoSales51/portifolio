@@ -1,0 +1,24 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hero  {
+    text-align: center;
+    
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.projetos {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 30px auto;
+    line-height: 3rem;
+}
